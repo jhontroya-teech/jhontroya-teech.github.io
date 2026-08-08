@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.jhontroya_teech.twa",
+        "sha256_cert_fingerprints": ["D9:3D:F8:0C:BE:28:6E:E6:DF:EA:3A:67:7E:39:D9:BC:BC:87:76:53:20:4F:4F:C4:19:98:CD:A9:9B:EE:40:5A"]
+      }
+    }]
