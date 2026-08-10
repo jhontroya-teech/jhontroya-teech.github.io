@@ -1,8 +1,18 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.jhontroya_teech.twa",
-        "sha256_cert_fingerprints": ["D9:3D:F8:0C:BE:28:6E:E6:DF:EA:3A:67:7E:39:D9:BC:BC:87:76:53:20:4F:4F:C4:19:98:CD:A9:9B:EE:40:5A"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.jhontroya_teech.twa",
+      "sha256_cert_fingerprints": ["D9:3D:F8:0C:BE:28:6E:E6:DF:EA:3A:67:7E:39:D9:BC:BC:87:76:53:20:4F:4F:C4:19:98:CD:A9:9B:EE:40:5A"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.jhontroya_teech.twa",
+      "sha256_cert_fingerprints": ["96:39:8E:8C:54:30:A1:EF:12:34:10:9A:DF:45:8A:11:94:75:E3:71:5B:D9:01:C7:6F:27:91:3E:22:B8:FF:C2"]
+    }
+  }
+]
